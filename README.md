@@ -1,4 +1,4 @@
-# employee-utilization-project
+# Employees' 2021 Historical and Predicted Weekly Hours
 ===================================
 
 This project is to perform data wrangling on both datasets, merge them, and create a heatmap of all employees' historical and future utilizations.
